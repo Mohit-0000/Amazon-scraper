@@ -9,7 +9,6 @@ import scrapy
 class AmazonScrapyItem(scrapy.Item):
     # define the fields for your item here like:
     title = scrapy.Field()
-    brand = scrapy.Field()
     price = scrapy.Field()
     rating = scrapy.Field()
     total_review = scrapy.Field()
