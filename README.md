@@ -1,4 +1,3 @@
-
 # Amazon Scraping Using Scrapy.
 
 A simple amazon scraper to extract Product details from Amazon.in using Scrapy.
@@ -97,5 +96,3 @@ Product name -
     }
 ]
 ```
-
-
