@@ -9,7 +9,7 @@ From a terminal
 
 - Clone this project 
 ```bash
-git clone https://github.com/Mohit-0000/Amazon-scraper.git
+git clone https://github.com/Mohit-0000/Amazon-scraper.git  and cd into it cd amazon_scrapy
 ```
 - Add a Virtual Environment 
 ```bash
