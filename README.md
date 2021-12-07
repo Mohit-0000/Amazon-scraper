@@ -22,7 +22,6 @@ source .venv/bin/activate
 ```bash
 pip3 install -r requirements.txt
 ```
-- NOTE : Checkout to Updated branch 
 
 
 # Scrape Product Details from Product Page
